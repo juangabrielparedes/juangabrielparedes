@@ -2,6 +2,9 @@
 I´m Juan Gabriel Paredes.
 I am a systems engineering studen.
 I start to program in java.
+I’m currently studying at the Universidad del Valle
+I’m currently learning the way we program in different programs
+I’m looking for help with the way to learn different types of program
 <!--
 **juangabrielparedes/juangabrielparedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
